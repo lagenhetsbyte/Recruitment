@@ -38,8 +38,6 @@ When you're done, send us a link to your repository (e.g. GitHub) along with you
 
 We'll review the application, and potentially book a follow-up meeting in which we'll discuss the different aspects of the challenge, e.g:
 
-- code quality and readability
-- design choices that were made and their [dis]advantages
-- your additional notes on the task
-
-**[GLHF! But mostly, just have fun 😃](https://giphy.com/gifs/doctor-who-good-luck-AC1PtbdsJZyOQ)**
+- Code quality and readability
+- Design choices that were made and their [dis]advantages
+- Your additional notes on the task
